@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  
+  header {
+    background-color: #333333;
+    padding: 20px;
+    color: #ffffff;
+  }
+  
+  h1 {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: #ffffff;
+    padding: 20px;
+  }
